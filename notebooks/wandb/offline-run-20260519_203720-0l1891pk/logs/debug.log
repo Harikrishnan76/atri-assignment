@@ -1,0 +1,21 @@
+2026-05-19 20:37:20,628 INFO    MainThread:23128 [wandb_init.py:setup_run_log_directory():723] Logging user logs to d:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\logs\debug.log
+2026-05-19 20:37:20,631 INFO    MainThread:23128 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to d:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\logs\debug-internal.log
+2026-05-19 20:37:20,632 INFO    MainThread:23128 [wandb_init.py:init():851] calling init triggers
+2026-05-19 20:37:20,632 INFO    MainThread:23128 [wandb_init.py:init():856] wandb.init called with sweep_config: {}
+config: {'epochs': 5, 'batch_size': 16, 'learning_rate': 0.0001, 'num_hidden_layers': 3, 'hidden_layer_size': 32, 'weight_decay': 0.0, 'optimizer': 'momentum', 'weight_init': 'random', 'activation': 'relu', '_wandb': {}}
+2026-05-19 20:37:20,632 INFO    MainThread:23128 [wandb_init.py:init():899] starting backend
+2026-05-19 20:37:20,632 INFO    MainThread:23128 [wandb_init.py:init():914] sending inform_init request
+2026-05-19 20:37:20,668 INFO    MainThread:23128 [wandb_init.py:init():919] backend started and connected
+2026-05-19 20:37:20,689 INFO    MainThread:23128 [wandb_run.py:_label_probe_notebook():1262] probe notebook
+2026-05-19 20:37:20,751 INFO    MainThread:23128 [wandb_init.py:init():989] updated telemetry
+2026-05-19 20:37:20,755 INFO    MainThread:23128 [wandb_init.py:init():1012] communicating run to backend with 90.0 second timeout
+2026-05-19 20:37:20,772 INFO    MainThread:23128 [wandb_init.py:init():1057] starting run threads in backend
+2026-05-19 20:37:23,604 INFO    MainThread:23128 [wandb_run.py:_console_start():2509] atexit reg
+2026-05-19 20:37:23,605 INFO    MainThread:23128 [wandb_run.py:_redirect():2359] redirect: wrap_raw
+2026-05-19 20:37:23,605 INFO    MainThread:23128 [wandb_run.py:_redirect():2428] Wrapping output streams.
+2026-05-19 20:37:23,605 INFO    MainThread:23128 [wandb_run.py:_redirect():2451] Redirects installed.
+2026-05-19 20:37:23,607 INFO    MainThread:23128 [wandb_init.py:init():1095] run started, returning control to user process
+2026-05-19 20:37:45,583 INFO    MainThread:23128 [wandb_run.py:_finish():2271] finishing run atri-fashion-mnist-q4/0l1891pk
+2026-05-19 20:37:45,584 INFO    MainThread:23128 [wandb_run.py:_atexit_cleanup():2476] got exitcode: 0
+2026-05-19 20:37:45,585 INFO    MainThread:23128 [wandb_run.py:_restore():2458] restore
+2026-05-19 20:37:45,585 INFO    MainThread:23128 [wandb_run.py:_restore():2464] restore done

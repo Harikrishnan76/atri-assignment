@@ -1,0 +1,7 @@
+  Epoch 1/5 | val_acc=10.3%
+  Epoch 2/5 | val_acc=10.0%
+✓ WandB API key loaded from credentials
+🔍 Running 25 Bayesian-inspired hyperparameter configurations with WandB...
+============================================================
+Run 1/25: nadam/relu | lr=0.0001
+============================================================

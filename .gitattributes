@@ -1,0 +1,23 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# Python files
+*.py text eol=lf
+*.ipynb text eol=lf
+
+# JSON/YAML configs
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Text files
+*.txt text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+
+# Binary files
+*.pkl binary
+*.npz binary
+*.png binary
+*.jpg binary
+*.jpeg binary

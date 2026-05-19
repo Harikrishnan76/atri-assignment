@@ -1,0 +1,6 @@
+numpy>=1.21.0
+tensorflow>=2.10.0
+matplotlib>=3.5.0
+wandb>=0.13.0
+scikit-learn>=1.0.0
+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

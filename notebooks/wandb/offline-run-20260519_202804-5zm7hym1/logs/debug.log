@@ -1,0 +1,21 @@
+2026-05-19 20:28:04,733 INFO    MainThread:23128 [wandb_init.py:setup_run_log_directory():723] Logging user logs to d:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\logs\debug.log
+2026-05-19 20:28:04,734 INFO    MainThread:23128 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to d:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\logs\debug-internal.log
+2026-05-19 20:28:04,734 INFO    MainThread:23128 [wandb_init.py:init():851] calling init triggers
+2026-05-19 20:28:04,734 INFO    MainThread:23128 [wandb_init.py:init():856] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch_size': 16, 'learning_rate': 0.0001, 'num_hidden_layers': 4, 'hidden_layer_size': 128, 'weight_decay': 0.0005, 'optimizer': 'momentum', 'weight_init': 'xavier', 'activation': 'sigmoid', '_wandb': {}}
+2026-05-19 20:28:04,736 INFO    MainThread:23128 [wandb_init.py:init():899] starting backend
+2026-05-19 20:28:04,736 INFO    MainThread:23128 [wandb_init.py:init():914] sending inform_init request
+2026-05-19 20:28:04,777 INFO    MainThread:23128 [wandb_init.py:init():919] backend started and connected
+2026-05-19 20:28:04,795 INFO    MainThread:23128 [wandb_run.py:_label_probe_notebook():1262] probe notebook
+2026-05-19 20:28:04,858 INFO    MainThread:23128 [wandb_init.py:init():989] updated telemetry
+2026-05-19 20:28:04,866 INFO    MainThread:23128 [wandb_init.py:init():1012] communicating run to backend with 90.0 second timeout
+2026-05-19 20:28:04,892 INFO    MainThread:23128 [wandb_init.py:init():1057] starting run threads in backend
+2026-05-19 20:28:08,195 INFO    MainThread:23128 [wandb_run.py:_console_start():2509] atexit reg
+2026-05-19 20:28:08,196 INFO    MainThread:23128 [wandb_run.py:_redirect():2359] redirect: wrap_raw
+2026-05-19 20:28:08,196 INFO    MainThread:23128 [wandb_run.py:_redirect():2428] Wrapping output streams.
+2026-05-19 20:28:08,196 INFO    MainThread:23128 [wandb_run.py:_redirect():2451] Redirects installed.
+2026-05-19 20:28:08,200 INFO    MainThread:23128 [wandb_init.py:init():1095] run started, returning control to user process
+2026-05-19 20:35:49,207 INFO    MainThread:23128 [wandb_run.py:_finish():2271] finishing run atri-fashion-mnist-q4/5zm7hym1
+2026-05-19 20:35:49,219 INFO    MainThread:23128 [wandb_run.py:_atexit_cleanup():2476] got exitcode: 0
+2026-05-19 20:35:49,227 INFO    MainThread:23128 [wandb_run.py:_restore():2458] restore
+2026-05-19 20:35:49,227 INFO    MainThread:23128 [wandb_run.py:_restore():2464] restore done

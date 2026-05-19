@@ -1,0 +1,84 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.12.7
+    cli_version: 0.27.0
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1779202171
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 53
+      2:
+      - 2
+      - 3
+      - 5
+      - 53
+      3:
+      - 2
+      - 4
+      - 13
+      - 16
+      - 42
+      - 62
+      4: 3.12.7
+      5: 0.27.0
+      8:
+      - 1
+      - 3
+      10:
+      - 20
+      13: windows-amd64
+    e:
+      e9j4wjl1mz6v0uiub1a8vh9zicyptfva:
+        os: Windows-11-10.0.26200-SP0
+        python: CPython 3.12.7
+        started_at: '2026-05-19T14:49:31.699485Z'
+        program: d:\atri-fashion-mnist-assignment\notebooks\Q4_wandb_sweep.ipynb
+        code_path: d:\atri-fashion-mnist-assignment\notebooks\Q4_wandb_sweep.ipynb
+        code_path_local: Q4_wandb_sweep.ipynb
+        root: d:\atri-fashion-mnist-assignment\notebooks
+        host: DESKTOP-VQO8P1H
+        executable: c:\Users\harik\anaconda3\anoconda\python.exe
+        cpu_count: 4
+        cpu_count_logical: 8
+        disk:
+          /:
+            total: '140504985600'
+            used: '38947688448'
+        memory:
+          total: '8311836672'
+        writer_id: e9j4wjl1mz6v0uiub1a8vh9zicyptfva
+epochs:
+  desc: null
+  value: 10
+batch_size:
+  desc: null
+  value: 64
+learning_rate:
+  desc: null
+  value: 0.001
+num_hidden_layers:
+  desc: null
+  value: 5
+hidden_layer_size:
+  desc: null
+  value: 32
+weight_decay:
+  desc: null
+  value: 0.0
+optimizer:
+  desc: null
+  value: nadam
+weight_init:
+  desc: null
+  value: random
+activation:
+  desc: null
+  value: tanh

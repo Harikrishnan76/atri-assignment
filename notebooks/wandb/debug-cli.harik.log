@@ -1,0 +1,1431 @@
+2026-05-19 20:58:31 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\run-c9a6dysx.wandb
+2026-05-19 20:58:34 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files
+2026-05-19 20:58:34 INFO run started: c9a6dysx with start time 1779201934.782816
+2026-05-19 20:58:35 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:58:35 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:58:35 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-metadata.json
+2026-05-19 20:58:36 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:58:36 INFO saving file requirements.txt with policy now
+2026-05-19 20:58:36 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-metadata.json
+2026-05-19 20:58:36 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:37 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:37 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6wxuh4opwandb\d8nl6t5g-wandb-metadata.json
+2026-05-19 20:58:37 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6wxuh4opwandb\0cig5enh-requirements.txt
+2026-05-19 20:58:37 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:58:37 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 20:58:37 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 20:58:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:58:38 INFO shutting down sender
+2026-05-19 20:58:38 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6wxuh4opwandb\xuzxqxje-wandb-metadata.json
+2026-05-19 20:58:38 INFO shutting down directory watcher
+2026-05-19 20:58:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 20:58:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 20:58:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:58:38 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files
+2026-05-19 20:58:38 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml config.yaml
+2026-05-19 20:58:38 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log output.log
+2026-05-19 20:58:38 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\requirements.txt requirements.txt
+2026-05-19 20:58:38 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 20:58:38 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json wandb-summary.json
+2026-05-19 20:58:38 INFO shutting down file pusher
+2026-05-19 20:58:38 INFO waiting for file pusher
+2026-05-19 20:58:39 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 20:58:39 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:58:39 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 20:58:40 INFO file stream finish called
+2026-05-19 20:58:42 INFO file stream finish is done
+2026-05-19 20:59:05 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\run-87stitsr.wandb
+2026-05-19 20:59:06 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files
+2026-05-19 20:59:06 INFO run started: 87stitsr with start time 1779201624.518635
+2026-05-19 20:59:07 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:07 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml
+2026-05-19 20:59:07 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-metadata.json
+2026-05-19 20:59:07 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:07 INFO saving file requirements.txt with policy now
+2026-05-19 20:59:08 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpy1s8ui44wandb\fjwlvhd3-wandb-metadata.json
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:08 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-metadata.json
+2026-05-19 20:59:08 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml
+2026-05-19 20:59:08 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-summary.json
+2026-05-19 20:59:08 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\output.log
+2026-05-19 20:59:08 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpy1s8ui44wandb\vmcybxv1-requirements.txt
+2026-05-19 20:59:09 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpy1s8ui44wandb\v0elvek1-wandb-metadata.json
+2026-05-19 20:59:09 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:09 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml
+2026-05-19 20:59:09 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-summary.json
+2026-05-19 20:59:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:10 INFO shutting down sender
+2026-05-19 20:59:10 INFO shutting down directory watcher
+2026-05-19 20:59:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml
+2026-05-19 20:59:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\output.log
+2026-05-19 20:59:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-summary.json
+2026-05-19 20:59:10 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files
+2026-05-19 20:59:10 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml config.yaml
+2026-05-19 20:59:10 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\output.log output.log
+2026-05-19 20:59:10 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\requirements.txt requirements.txt
+2026-05-19 20:59:10 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 20:59:10 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-summary.json wandb-summary.json
+2026-05-19 20:59:10 INFO shutting down file pusher
+2026-05-19 20:59:10 INFO waiting for file pusher
+2026-05-19 20:59:11 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\output.log
+2026-05-19 20:59:11 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\config.yaml
+2026-05-19 20:59:12 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201024-87stitsr\files\wandb-summary.json
+2026-05-19 20:59:12 INFO file stream finish called
+2026-05-19 20:59:14 INFO file stream finish is done
+2026-05-19 20:59:20 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\run-ad7im74z.wandb
+2026-05-19 20:59:23 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files
+2026-05-19 20:59:23 INFO run started: ad7im74z with start time 1779201698.028593
+2026-05-19 20:59:24 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:24 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml
+2026-05-19 20:59:24 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-metadata.json
+2026-05-19 20:59:24 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:24 INFO saving file requirements.txt with policy now
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:25 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml
+2026-05-19 20:59:25 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-metadata.json
+2026-05-19 20:59:25 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-summary.json
+2026-05-19 20:59:25 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\output.log
+2026-05-19 20:59:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:26 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-summary.json
+2026-05-19 20:59:26 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml
+2026-05-19 20:59:26 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp3h0g_50rwandb\guxl7rpj-wandb-metadata.json
+2026-05-19 20:59:26 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:26 INFO shutting down sender
+2026-05-19 20:59:27 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp3h0g_50rwandb\e7af64q0-requirements.txt
+2026-05-19 20:59:27 INFO shutting down directory watcher
+2026-05-19 20:59:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-summary.json
+2026-05-19 20:59:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\output.log
+2026-05-19 20:59:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml
+2026-05-19 20:59:27 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files
+2026-05-19 20:59:27 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml config.yaml
+2026-05-19 20:59:27 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\output.log output.log
+2026-05-19 20:59:27 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\requirements.txt requirements.txt
+2026-05-19 20:59:27 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 20:59:27 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-summary.json wandb-summary.json
+2026-05-19 20:59:27 INFO shutting down file pusher
+2026-05-19 20:59:27 INFO waiting for file pusher
+2026-05-19 20:59:27 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp3h0g_50rwandb\e6m7w4dg-wandb-metadata.json
+2026-05-19 20:59:28 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\wandb-summary.json
+2026-05-19 20:59:28 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\config.yaml
+2026-05-19 20:59:28 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201137-ad7im74z\files\output.log
+2026-05-19 20:59:28 INFO file stream finish called
+2026-05-19 20:59:30 INFO file stream finish is done
+2026-05-19 20:59:35 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\run-u0dqd497.wandb
+2026-05-19 20:59:37 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files
+2026-05-19 20:59:37 INFO run started: u0dqd497 with start time 1779201725.579145
+2026-05-19 20:59:38 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml
+2026-05-19 20:59:38 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-metadata.json
+2026-05-19 20:59:39 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:39 INFO saving file requirements.txt with policy now
+2026-05-19 20:59:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml
+2026-05-19 20:59:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-metadata.json
+2026-05-19 20:59:40 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:40 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:40 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:40 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:40 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml
+2026-05-19 20:59:40 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\output.log
+2026-05-19 20:59:40 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-summary.json
+2026-05-19 20:59:41 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6nrz8ca4wandb\6m9zpvac-wandb-metadata.json
+2026-05-19 20:59:41 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:41 INFO shutting down sender
+2026-05-19 20:59:41 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6nrz8ca4wandb\i47tniog-requirements.txt
+2026-05-19 20:59:41 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-summary.json
+2026-05-19 20:59:41 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml
+2026-05-19 20:59:42 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6nrz8ca4wandb\z5sry8tm-wandb-metadata.json
+2026-05-19 20:59:42 INFO shutting down directory watcher
+2026-05-19 20:59:42 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\output.log
+2026-05-19 20:59:42 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files
+2026-05-19 20:59:42 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml config.yaml
+2026-05-19 20:59:43 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\output.log output.log
+2026-05-19 20:59:43 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\requirements.txt requirements.txt
+2026-05-19 20:59:43 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 20:59:43 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-summary.json wandb-summary.json
+2026-05-19 20:59:43 INFO shutting down file pusher
+2026-05-19 20:59:43 INFO waiting for file pusher
+2026-05-19 20:59:43 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\output.log
+2026-05-19 20:59:43 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\config.yaml
+2026-05-19 20:59:44 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201205-u0dqd497\files\wandb-summary.json
+2026-05-19 20:59:44 INFO file stream finish called
+2026-05-19 20:59:47 INFO file stream finish is done
+2026-05-19 20:59:52 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\run-c9a6dysx.wandb
+2026-05-19 20:59:54 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files
+2026-05-19 20:59:54 INFO run started: c9a6dysx with start time 1779201934.782816
+2026-05-19 20:59:56 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:56 INFO saving file wandb-metadata.json with policy now
+2026-05-19 20:59:56 INFO saving file requirements.txt with policy now
+2026-05-19 20:59:57 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:59:57 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-metadata.json
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:57 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpjs_iowk6wandb\u5vsh0do-wandb-metadata.json
+2026-05-19 20:59:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:59:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 20:59:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 20:59:58 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpjs_iowk6wandb\fpgkl75i-requirements.txt
+2026-05-19 20:59:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 20:59:58 INFO shutting down sender
+2026-05-19 20:59:58 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpjs_iowk6wandb\5a8l81dp-wandb-metadata.json
+2026-05-19 20:59:59 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 20:59:59 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 20:59:59 INFO shutting down directory watcher
+2026-05-19 21:00:00 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 21:00:00 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files
+2026-05-19 21:00:00 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml config.yaml
+2026-05-19 21:00:00 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log output.log
+2026-05-19 21:00:00 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\requirements.txt requirements.txt
+2026-05-19 21:00:00 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:00:00 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:00:00 INFO shutting down file pusher
+2026-05-19 21:00:00 INFO waiting for file pusher
+2026-05-19 21:00:01 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\wandb-summary.json
+2026-05-19 21:00:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\config.yaml
+2026-05-19 21:00:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201534-c9a6dysx\files\output.log
+2026-05-19 21:00:02 INFO file stream finish called
+2026-05-19 21:00:05 INFO file stream finish is done
+2026-05-19 21:00:10 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\run-583slanm.wandb
+2026-05-19 21:00:11 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files
+2026-05-19 21:00:11 INFO run started: 583slanm with start time 1779201988.095297
+2026-05-19 21:00:12 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\config.yaml
+2026-05-19 21:00:12 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-metadata.json
+2026-05-19 21:00:13 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:13 INFO saving file requirements.txt with policy now
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-metadata.json
+2026-05-19 21:00:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\config.yaml
+2026-05-19 21:00:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\output.log
+2026-05-19 21:00:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-summary.json
+2026-05-19 21:00:14 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp59kj326uwandb\2e2cj24w-wandb-metadata.json
+2026-05-19 21:00:14 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:14 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp59kj326uwandb\2gjuy0k4-requirements.txt
+2026-05-19 21:00:14 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:14 INFO shutting down sender
+2026-05-19 21:00:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\config.yaml
+2026-05-19 21:00:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-summary.json
+2026-05-19 21:00:15 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp59kj326uwandb\k7yzcdr8-wandb-metadata.json
+2026-05-19 21:00:15 INFO shutting down directory watcher
+2026-05-19 21:00:15 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\output.log
+2026-05-19 21:00:15 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files
+2026-05-19 21:00:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\config.yaml config.yaml
+2026-05-19 21:00:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\output.log output.log
+2026-05-19 21:00:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\requirements.txt requirements.txt
+2026-05-19 21:00:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:00:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:00:15 INFO shutting down file pusher
+2026-05-19 21:00:15 INFO waiting for file pusher
+2026-05-19 21:00:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\wandb-summary.json
+2026-05-19 21:00:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\output.log
+2026-05-19 21:00:17 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201628-583slanm\files\config.yaml
+2026-05-19 21:00:17 INFO file stream finish called
+2026-05-19 21:00:19 INFO file stream finish is done
+2026-05-19 21:00:24 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\run-t8453b2a.wandb
+2026-05-19 21:00:26 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files
+2026-05-19 21:00:26 INFO run started: t8453b2a with start time 1779202001.475717
+2026-05-19 21:00:27 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:28 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:28 INFO saving file requirements.txt with policy now
+2026-05-19 21:00:28 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\config.yaml
+2026-05-19 21:00:28 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-metadata.json
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:29 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:29 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\config.yaml
+2026-05-19 21:00:29 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\output.log
+2026-05-19 21:00:29 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-summary.json
+2026-05-19 21:00:29 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp276eiabwwandb\gxjunksb-wandb-metadata.json
+2026-05-19 21:00:29 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:29 INFO shutting down sender
+2026-05-19 21:00:30 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp276eiabwwandb\3e2nf7jd-requirements.txt
+2026-05-19 21:00:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\config.yaml
+2026-05-19 21:00:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-summary.json
+2026-05-19 21:00:30 INFO shutting down directory watcher
+2026-05-19 21:00:30 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp276eiabwwandb\7tvohftb-wandb-metadata.json
+2026-05-19 21:00:31 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\output.log
+2026-05-19 21:00:31 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files
+2026-05-19 21:00:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\config.yaml config.yaml
+2026-05-19 21:00:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\output.log output.log
+2026-05-19 21:00:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\requirements.txt requirements.txt
+2026-05-19 21:00:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:00:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:00:31 INFO shutting down file pusher
+2026-05-19 21:00:31 INFO waiting for file pusher
+2026-05-19 21:00:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\wandb-summary.json
+2026-05-19 21:00:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\output.log
+2026-05-19 21:00:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201641-t8453b2a\files\config.yaml
+2026-05-19 21:00:32 INFO file stream finish called
+2026-05-19 21:00:35 INFO file stream finish is done
+2026-05-19 21:00:41 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\run-g5zzpnw0.wandb
+2026-05-19 21:00:43 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files
+2026-05-19 21:00:43 INFO run started: g5zzpnw0 with start time 1779202067.193079
+2026-05-19 21:00:43 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:44 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:44 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-metadata.json
+2026-05-19 21:00:45 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:00:45 INFO saving file requirements.txt with policy now
+2026-05-19 21:00:45 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-metadata.json
+2026-05-19 21:00:45 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:45 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:46 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpivpcgehpwandb\osaj2ww3-wandb-metadata.json
+2026-05-19 21:00:46 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:46 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\output.log
+2026-05-19 21:00:46 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-summary.json
+2026-05-19 21:00:46 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpivpcgehpwandb\cgao0ghz-requirements.txt
+2026-05-19 21:00:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:47 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-summary.json
+2026-05-19 21:00:47 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:47 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpivpcgehpwandb\0w29n8fl-wandb-metadata.json
+2026-05-19 21:00:47 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:00:47 INFO shutting down sender
+2026-05-19 21:00:47 INFO shutting down directory watcher
+2026-05-19 21:00:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\output.log
+2026-05-19 21:00:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-summary.json
+2026-05-19 21:00:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:48 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files
+2026-05-19 21:00:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml config.yaml
+2026-05-19 21:00:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\output.log output.log
+2026-05-19 21:00:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\requirements.txt requirements.txt
+2026-05-19 21:00:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:00:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:00:48 INFO shutting down file pusher
+2026-05-19 21:00:48 INFO waiting for file pusher
+2026-05-19 21:00:49 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\output.log
+2026-05-19 21:00:49 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\wandb-summary.json
+2026-05-19 21:00:49 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201747-g5zzpnw0\files\config.yaml
+2026-05-19 21:00:49 INFO file stream finish called
+2026-05-19 21:00:52 INFO file stream finish is done
+2026-05-19 21:00:58 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\run-2tbfk4gy.wandb
+2026-05-19 21:01:00 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files
+2026-05-19 21:01:00 INFO run started: 2tbfk4gy with start time 1779202102.558466
+2026-05-19 21:01:00 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:01 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml
+2026-05-19 21:01:01 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-metadata.json
+2026-05-19 21:01:01 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:01 INFO saving file requirements.txt with policy now
+2026-05-19 21:01:02 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml
+2026-05-19 21:01:02 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-metadata.json
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:02 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:03 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:03 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml
+2026-05-19 21:01:03 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\output.log
+2026-05-19 21:01:03 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-summary.json
+2026-05-19 21:01:03 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp06088qouwandb\bh4l66bc-wandb-metadata.json
+2026-05-19 21:01:03 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:03 INFO shutting down sender
+2026-05-19 21:01:04 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp06088qouwandb\ptyp2jxn-requirements.txt
+2026-05-19 21:01:04 INFO shutting down directory watcher
+2026-05-19 21:01:04 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml
+2026-05-19 21:01:04 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\output.log
+2026-05-19 21:01:04 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-summary.json
+2026-05-19 21:01:04 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files
+2026-05-19 21:01:04 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml config.yaml
+2026-05-19 21:01:04 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\output.log output.log
+2026-05-19 21:01:04 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\requirements.txt requirements.txt
+2026-05-19 21:01:04 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:01:04 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:01:04 INFO shutting down file pusher
+2026-05-19 21:01:04 INFO waiting for file pusher
+2026-05-19 21:01:04 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp06088qouwandb\d4vcg2fo-wandb-metadata.json
+2026-05-19 21:01:05 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\output.log
+2026-05-19 21:01:05 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\config.yaml
+2026-05-19 21:01:05 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201822-2tbfk4gy\files\wandb-summary.json
+2026-05-19 21:01:05 INFO file stream finish called
+2026-05-19 21:01:09 INFO file stream finish is done
+2026-05-19 21:01:15 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\run-582thz6g.wandb
+2026-05-19 21:01:16 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files
+2026-05-19 21:01:16 INFO run started: 582thz6g with start time 1779202126.756198
+2026-05-19 21:01:17 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:17 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml
+2026-05-19 21:01:17 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-metadata.json
+2026-05-19 21:01:18 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:18 INFO saving file requirements.txt with policy now
+2026-05-19 21:01:18 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml
+2026-05-19 21:01:18 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-metadata.json
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpx9yb8ew8wandb\17pa9dv4-wandb-metadata.json
+2026-05-19 21:01:19 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:19 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml
+2026-05-19 21:01:19 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-summary.json
+2026-05-19 21:01:19 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\output.log
+2026-05-19 21:01:20 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpx9yb8ew8wandb\vpkvhye7-requirements.txt
+2026-05-19 21:01:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:20 INFO shutting down sender
+2026-05-19 21:01:20 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpx9yb8ew8wandb\kiosd5ov-wandb-metadata.json
+2026-05-19 21:01:21 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-summary.json
+2026-05-19 21:01:21 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml
+2026-05-19 21:01:21 INFO shutting down directory watcher
+2026-05-19 21:01:22 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\output.log
+2026-05-19 21:01:22 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files
+2026-05-19 21:01:22 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml config.yaml
+2026-05-19 21:01:22 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\output.log output.log
+2026-05-19 21:01:22 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\requirements.txt requirements.txt
+2026-05-19 21:01:22 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:01:22 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:01:22 INFO shutting down file pusher
+2026-05-19 21:01:22 INFO waiting for file pusher
+2026-05-19 21:01:23 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\config.yaml
+2026-05-19 21:01:23 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\wandb-summary.json
+2026-05-19 21:01:23 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201846-582thz6g\files\output.log
+2026-05-19 21:01:24 INFO file stream finish called
+2026-05-19 21:01:25 INFO file stream finish is done
+2026-05-19 21:01:31 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\run-8r6dd6ij.wandb
+2026-05-19 21:01:34 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files
+2026-05-19 21:01:34 INFO run started: 8r6dd6ij with start time 1779202171.764578
+2026-05-19 21:01:35 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:36 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml
+2026-05-19 21:01:36 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-metadata.json
+2026-05-19 21:01:36 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:36 INFO saving file requirements.txt with policy now
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:36 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:37 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-metadata.json
+2026-05-19 21:01:37 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml
+2026-05-19 21:01:37 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\output.log
+2026-05-19 21:01:37 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-summary.json
+2026-05-19 21:01:37 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml
+2026-05-19 21:01:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-summary.json
+2026-05-19 21:01:38 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf6zeag6twandb\q752g7y5-wandb-metadata.json
+2026-05-19 21:01:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:38 INFO shutting down sender
+2026-05-19 21:01:38 INFO shutting down directory watcher
+2026-05-19 21:01:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml
+2026-05-19 21:01:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\output.log
+2026-05-19 21:01:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-summary.json
+2026-05-19 21:01:39 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files
+2026-05-19 21:01:39 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml config.yaml
+2026-05-19 21:01:39 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\output.log output.log
+2026-05-19 21:01:39 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\requirements.txt requirements.txt
+2026-05-19 21:01:39 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:01:39 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:01:39 INFO shutting down file pusher
+2026-05-19 21:01:39 INFO waiting for file pusher
+2026-05-19 21:01:39 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf6zeag6twandb\vg71bsag-requirements.txt
+2026-05-19 21:01:39 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf6zeag6twandb\w2vogphs-wandb-metadata.json
+2026-05-19 21:01:40 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\output.log
+2026-05-19 21:01:40 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\wandb-summary.json
+2026-05-19 21:01:40 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_201931-8r6dd6ij\files\config.yaml
+2026-05-19 21:01:41 INFO file stream finish called
+2026-05-19 21:01:44 INFO file stream finish is done
+2026-05-19 21:01:50 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\run-eibhvvkk.wandb
+2026-05-19 21:01:52 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files
+2026-05-19 21:01:52 INFO run started: eibhvvkk with start time 1779202273.304708
+2026-05-19 21:01:53 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:54 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:01:54 INFO saving file requirements.txt with policy now
+2026-05-19 21:01:54 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\config.yaml
+2026-05-19 21:01:54 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-metadata.json
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:54 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:55 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:55 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpn39reql6wandb\edys3spb-wandb-metadata.json
+2026-05-19 21:01:55 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\config.yaml
+2026-05-19 21:01:55 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-summary.json
+2026-05-19 21:01:55 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\output.log
+2026-05-19 21:01:56 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpn39reql6wandb\le9zn0uh-requirements.txt
+2026-05-19 21:01:56 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:01:56 INFO shutting down sender
+2026-05-19 21:01:56 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpn39reql6wandb\cox2bfcg-wandb-metadata.json
+2026-05-19 21:01:56 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\config.yaml
+2026-05-19 21:01:56 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-summary.json
+2026-05-19 21:01:56 INFO shutting down directory watcher
+2026-05-19 21:01:57 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\output.log
+2026-05-19 21:01:57 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files
+2026-05-19 21:01:57 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\config.yaml config.yaml
+2026-05-19 21:01:57 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\output.log output.log
+2026-05-19 21:01:57 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\requirements.txt requirements.txt
+2026-05-19 21:01:57 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:01:57 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:01:57 INFO shutting down file pusher
+2026-05-19 21:01:57 INFO waiting for file pusher
+2026-05-19 21:01:58 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\wandb-summary.json
+2026-05-19 21:01:58 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\output.log
+2026-05-19 21:01:59 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202113-eibhvvkk\files\config.yaml
+2026-05-19 21:01:59 INFO file stream finish called
+2026-05-19 21:02:02 INFO file stream finish is done
+2026-05-19 21:02:07 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\run-49wv8xxp.wandb
+2026-05-19 21:02:09 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files
+2026-05-19 21:02:09 INFO run started: 49wv8xxp with start time 1779202434.286456
+2026-05-19 21:02:09 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\config.yaml
+2026-05-19 21:02:10 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-metadata.json
+2026-05-19 21:02:10 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:10 INFO saving file requirements.txt with policy now
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:10 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpo_th8gpywandb\b56xm1x4-wandb-metadata.json
+2026-05-19 21:02:11 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-metadata.json
+2026-05-19 21:02:11 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\config.yaml
+2026-05-19 21:02:11 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\output.log
+2026-05-19 21:02:11 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-summary.json
+2026-05-19 21:02:11 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:11 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpo_th8gpywandb\cinzv25i-requirements.txt
+2026-05-19 21:02:11 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:11 INFO shutting down sender
+2026-05-19 21:02:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-summary.json
+2026-05-19 21:02:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\config.yaml
+2026-05-19 21:02:12 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpo_th8gpywandb\ftnkasec-wandb-metadata.json
+2026-05-19 21:02:12 INFO shutting down directory watcher
+2026-05-19 21:02:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\output.log
+2026-05-19 21:02:13 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files
+2026-05-19 21:02:13 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\config.yaml config.yaml
+2026-05-19 21:02:13 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\output.log output.log
+2026-05-19 21:02:13 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\requirements.txt requirements.txt
+2026-05-19 21:02:13 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:02:13 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:02:13 INFO shutting down file pusher
+2026-05-19 21:02:13 INFO waiting for file pusher
+2026-05-19 21:02:14 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\config.yaml
+2026-05-19 21:02:14 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\wandb-summary.json
+2026-05-19 21:02:14 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202354-49wv8xxp\files\output.log
+2026-05-19 21:02:14 INFO file stream finish called
+2026-05-19 21:02:16 INFO file stream finish is done
+2026-05-19 21:02:22 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\run-l7b4bzuw.wandb
+2026-05-19 21:02:24 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files
+2026-05-19 21:02:24 INFO run started: l7b4bzuw with start time 1779202554.964416
+2026-05-19 21:02:24 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:25 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\config.yaml
+2026-05-19 21:02:25 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-metadata.json
+2026-05-19 21:02:25 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:25 INFO saving file requirements.txt with policy now
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:25 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf9bzwlr5wandb\y4a43osa-wandb-metadata.json
+2026-05-19 21:02:26 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-metadata.json
+2026-05-19 21:02:26 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\config.yaml
+2026-05-19 21:02:26 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\output.log
+2026-05-19 21:02:26 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-summary.json
+2026-05-19 21:02:26 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf9bzwlr5wandb\cjjpgvub-requirements.txt
+2026-05-19 21:02:26 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:27 INFO shutting down sender
+2026-05-19 21:02:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\config.yaml
+2026-05-19 21:02:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-summary.json
+2026-05-19 21:02:27 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpf9bzwlr5wandb\ql18oahc-wandb-metadata.json
+2026-05-19 21:02:27 INFO shutting down directory watcher
+2026-05-19 21:02:28 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\output.log
+2026-05-19 21:02:28 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files
+2026-05-19 21:02:28 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\config.yaml config.yaml
+2026-05-19 21:02:28 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\output.log output.log
+2026-05-19 21:02:28 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\requirements.txt requirements.txt
+2026-05-19 21:02:28 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:02:28 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:02:28 INFO shutting down file pusher
+2026-05-19 21:02:28 INFO waiting for file pusher
+2026-05-19 21:02:28 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\output.log
+2026-05-19 21:02:28 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\config.yaml
+2026-05-19 21:02:29 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202554-l7b4bzuw\files\wandb-summary.json
+2026-05-19 21:02:29 INFO file stream finish called
+2026-05-19 21:02:31 INFO file stream finish is done
+2026-05-19 21:02:38 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\run-qipz3n2p.wandb
+2026-05-19 21:02:40 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files
+2026-05-19 21:02:40 INFO run started: qipz3n2p with start time 1779202568.948686
+2026-05-19 21:02:40 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:41 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\config.yaml
+2026-05-19 21:02:41 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-metadata.json
+2026-05-19 21:02:41 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:41 INFO saving file requirements.txt with policy now
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpnpp6ecjmwandb\3rfej59x-wandb-metadata.json
+2026-05-19 21:02:42 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-metadata.json
+2026-05-19 21:02:42 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\config.yaml
+2026-05-19 21:02:42 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\output.log
+2026-05-19 21:02:42 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-summary.json
+2026-05-19 21:02:42 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:42 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpnpp6ecjmwandb\tu8y605w-requirements.txt
+2026-05-19 21:02:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:43 INFO shutting down sender
+2026-05-19 21:02:43 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-summary.json
+2026-05-19 21:02:43 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\config.yaml
+2026-05-19 21:02:43 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpnpp6ecjmwandb\aznx0c1n-wandb-metadata.json
+2026-05-19 21:02:44 INFO shutting down directory watcher
+2026-05-19 21:02:44 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\output.log
+2026-05-19 21:02:44 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files
+2026-05-19 21:02:44 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\config.yaml config.yaml
+2026-05-19 21:02:44 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\output.log output.log
+2026-05-19 21:02:44 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\requirements.txt requirements.txt
+2026-05-19 21:02:44 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:02:44 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:02:44 INFO shutting down file pusher
+2026-05-19 21:02:44 INFO waiting for file pusher
+2026-05-19 21:02:45 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\config.yaml
+2026-05-19 21:02:45 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\output.log
+2026-05-19 21:02:46 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202608-qipz3n2p\files\wandb-summary.json
+2026-05-19 21:02:46 INFO file stream finish called
+2026-05-19 21:02:48 INFO file stream finish is done
+2026-05-19 21:02:53 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\run-5zm7hym1.wandb
+2026-05-19 21:02:55 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files
+2026-05-19 21:02:55 INFO run started: 5zm7hym1 with start time 1779202684.778441
+2026-05-19 21:02:56 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:56 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\config.yaml
+2026-05-19 21:02:56 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-metadata.json
+2026-05-19 21:02:56 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:02:56 INFO saving file requirements.txt with policy now
+2026-05-19 21:02:57 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpikcfihjnwandb\o4junrrp-wandb-metadata.json
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:57 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-metadata.json
+2026-05-19 21:02:57 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\config.yaml
+2026-05-19 21:02:57 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\output.log
+2026-05-19 21:02:57 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-summary.json
+2026-05-19 21:02:57 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpikcfihjnwandb\wuk3tvci-requirements.txt
+2026-05-19 21:02:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:58 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpikcfihjnwandb\mj5z9i0n-wandb-metadata.json
+2026-05-19 21:02:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:02:58 INFO shutting down sender
+2026-05-19 21:02:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\config.yaml
+2026-05-19 21:02:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-summary.json
+2026-05-19 21:02:59 INFO shutting down directory watcher
+2026-05-19 21:02:59 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\output.log
+2026-05-19 21:02:59 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files
+2026-05-19 21:02:59 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\config.yaml config.yaml
+2026-05-19 21:02:59 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\output.log output.log
+2026-05-19 21:02:59 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\requirements.txt requirements.txt
+2026-05-19 21:02:59 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:02:59 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:02:59 INFO shutting down file pusher
+2026-05-19 21:02:59 INFO waiting for file pusher
+2026-05-19 21:03:00 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\config.yaml
+2026-05-19 21:03:00 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\output.log
+2026-05-19 21:03:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_202804-5zm7hym1\files\wandb-summary.json
+2026-05-19 21:03:02 INFO file stream finish called
+2026-05-19 21:03:04 INFO file stream finish is done
+2026-05-19 21:03:10 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\run-ye431npi.wandb
+2026-05-19 21:03:11 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files
+2026-05-19 21:03:11 INFO run started: ye431npi with start time 1779203149.507482
+2026-05-19 21:03:12 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\config.yaml
+2026-05-19 21:03:12 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-metadata.json
+2026-05-19 21:03:13 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:13 INFO saving file requirements.txt with policy now
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:13 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0x4fy3mswandb\lk53r1q4-wandb-metadata.json
+2026-05-19 21:03:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-metadata.json
+2026-05-19 21:03:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\config.yaml
+2026-05-19 21:03:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-summary.json
+2026-05-19 21:03:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\output.log
+2026-05-19 21:03:14 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:14 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0x4fy3mswandb\55cxbu7y-requirements.txt
+2026-05-19 21:03:14 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0x4fy3mswandb\bn0xiupy-wandb-metadata.json
+2026-05-19 21:03:14 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:14 INFO shutting down sender
+2026-05-19 21:03:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-summary.json
+2026-05-19 21:03:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\config.yaml
+2026-05-19 21:03:15 INFO shutting down directory watcher
+2026-05-19 21:03:15 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\output.log
+2026-05-19 21:03:15 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files
+2026-05-19 21:03:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\config.yaml config.yaml
+2026-05-19 21:03:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\output.log output.log
+2026-05-19 21:03:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\requirements.txt requirements.txt
+2026-05-19 21:03:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:03:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:03:15 INFO shutting down file pusher
+2026-05-19 21:03:15 INFO waiting for file pusher
+2026-05-19 21:03:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\output.log
+2026-05-19 21:03:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\config.yaml
+2026-05-19 21:03:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203549-ye431npi\files\wandb-summary.json
+2026-05-19 21:03:17 INFO file stream finish called
+2026-05-19 21:03:19 INFO file stream finish is done
+2026-05-19 21:03:26 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\run-0l1891pk.wandb
+2026-05-19 21:03:27 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files
+2026-05-19 21:03:27 INFO run started: 0l1891pk with start time 1779203240.668148
+2026-05-19 21:03:27 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:28 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:28 INFO saving file requirements.txt with policy now
+2026-05-19 21:03:28 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\config.yaml
+2026-05-19 21:03:28 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-metadata.json
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:29 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpbh0m4hf5wandb\bvkafngf-wandb-metadata.json
+2026-05-19 21:03:29 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:29 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\config.yaml
+2026-05-19 21:03:29 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\output.log
+2026-05-19 21:03:29 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-summary.json
+2026-05-19 21:03:29 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpbh0m4hf5wandb\u2onrqfg-requirements.txt
+2026-05-19 21:03:30 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpbh0m4hf5wandb\dft3sw6d-wandb-metadata.json
+2026-05-19 21:03:30 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:30 INFO shutting down sender
+2026-05-19 21:03:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\config.yaml
+2026-05-19 21:03:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-summary.json
+2026-05-19 21:03:30 INFO shutting down directory watcher
+2026-05-19 21:03:31 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\output.log
+2026-05-19 21:03:31 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files
+2026-05-19 21:03:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\config.yaml config.yaml
+2026-05-19 21:03:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\output.log output.log
+2026-05-19 21:03:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\requirements.txt requirements.txt
+2026-05-19 21:03:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:03:31 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:03:31 INFO shutting down file pusher
+2026-05-19 21:03:31 INFO waiting for file pusher
+2026-05-19 21:03:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\output.log
+2026-05-19 21:03:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\wandb-summary.json
+2026-05-19 21:03:32 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203720-0l1891pk\files\config.yaml
+2026-05-19 21:03:33 INFO file stream finish called
+2026-05-19 21:03:34 INFO file stream finish is done
+2026-05-19 21:03:40 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\run-81bpeche.wandb
+2026-05-19 21:03:41 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files
+2026-05-19 21:03:41 INFO run started: 81bpeche with start time 1779203265.682685
+2026-05-19 21:03:42 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:42 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\config.yaml
+2026-05-19 21:03:42 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-metadata.json
+2026-05-19 21:03:43 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:43 INFO saving file requirements.txt with policy now
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:43 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpl9h_xn6lwandb\rk9ij6j0-wandb-metadata.json
+2026-05-19 21:03:43 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\config.yaml
+2026-05-19 21:03:43 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-metadata.json
+2026-05-19 21:03:43 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-summary.json
+2026-05-19 21:03:43 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\output.log
+2026-05-19 21:03:44 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:44 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpl9h_xn6lwandb\5rpe82y8-requirements.txt
+2026-05-19 21:03:44 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:44 INFO shutting down sender
+2026-05-19 21:03:44 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpl9h_xn6lwandb\0mz0z1zc-wandb-metadata.json
+2026-05-19 21:03:44 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-summary.json
+2026-05-19 21:03:44 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\config.yaml
+2026-05-19 21:03:45 INFO shutting down directory watcher
+2026-05-19 21:03:45 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\output.log
+2026-05-19 21:03:45 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files
+2026-05-19 21:03:45 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\config.yaml config.yaml
+2026-05-19 21:03:45 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\output.log output.log
+2026-05-19 21:03:45 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\requirements.txt requirements.txt
+2026-05-19 21:03:45 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:03:45 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:03:45 INFO shutting down file pusher
+2026-05-19 21:03:45 INFO waiting for file pusher
+2026-05-19 21:03:47 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\output.log
+2026-05-19 21:03:47 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\wandb-summary.json
+2026-05-19 21:03:47 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203745-81bpeche\files\config.yaml
+2026-05-19 21:03:48 INFO file stream finish called
+2026-05-19 21:03:49 INFO file stream finish is done
+2026-05-19 21:03:55 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\run-qihaivb5.wandb
+2026-05-19 21:03:57 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files
+2026-05-19 21:03:57 INFO run started: qihaivb5 with start time 1779203396.2473
+2026-05-19 21:03:57 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:58 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:03:58 INFO saving file requirements.txt with policy now
+2026-05-19 21:03:58 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\config.yaml
+2026-05-19 21:03:58 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-metadata.json
+2026-05-19 21:03:58 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpqyofdl1pwandb\wmkfjk06-wandb-metadata.json
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:58 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:59 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\config.yaml
+2026-05-19 21:03:59 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\output.log
+2026-05-19 21:03:59 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-summary.json
+2026-05-19 21:03:59 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:59 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpqyofdl1pwandb\r9e1zr13-requirements.txt
+2026-05-19 21:03:59 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpqyofdl1pwandb\655ce3cg-wandb-metadata.json
+2026-05-19 21:03:59 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:03:59 INFO shutting down sender
+2026-05-19 21:04:00 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\config.yaml
+2026-05-19 21:04:00 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-summary.json
+2026-05-19 21:04:00 INFO shutting down directory watcher
+2026-05-19 21:04:01 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\output.log
+2026-05-19 21:04:01 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files
+2026-05-19 21:04:01 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\config.yaml config.yaml
+2026-05-19 21:04:01 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\output.log output.log
+2026-05-19 21:04:01 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\requirements.txt requirements.txt
+2026-05-19 21:04:01 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:04:01 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:04:01 INFO shutting down file pusher
+2026-05-19 21:04:01 INFO waiting for file pusher
+2026-05-19 21:04:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\wandb-summary.json
+2026-05-19 21:04:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\output.log
+2026-05-19 21:04:02 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_203956-qihaivb5\files\config.yaml
+2026-05-19 21:04:02 INFO file stream finish called
+2026-05-19 21:04:04 INFO file stream finish is done
+2026-05-19 21:04:08 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\run-q8pv3i7m.wandb
+2026-05-19 21:04:11 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files
+2026-05-19 21:04:11 INFO run started: q8pv3i7m with start time 1779203461.56071
+2026-05-19 21:04:12 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\config.yaml
+2026-05-19 21:04:12 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-metadata.json
+2026-05-19 21:04:12 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:12 INFO saving file requirements.txt with policy now
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpz1y7u1kkwandb\tsk0jyji-wandb-metadata.json
+2026-05-19 21:04:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\config.yaml
+2026-05-19 21:04:13 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-metadata.json
+2026-05-19 21:04:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-summary.json
+2026-05-19 21:04:13 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\output.log
+2026-05-19 21:04:13 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:13 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpz1y7u1kkwandb\aei1cr8u-requirements.txt
+2026-05-19 21:04:14 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:14 INFO shutting down sender
+2026-05-19 21:04:14 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpz1y7u1kkwandb\04v7m0dx-wandb-metadata.json
+2026-05-19 21:04:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\config.yaml
+2026-05-19 21:04:14 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-summary.json
+2026-05-19 21:04:15 INFO shutting down directory watcher
+2026-05-19 21:04:15 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\output.log
+2026-05-19 21:04:15 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files
+2026-05-19 21:04:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\config.yaml config.yaml
+2026-05-19 21:04:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\output.log output.log
+2026-05-19 21:04:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\requirements.txt requirements.txt
+2026-05-19 21:04:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:04:15 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:04:15 INFO shutting down file pusher
+2026-05-19 21:04:15 INFO waiting for file pusher
+2026-05-19 21:04:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\output.log
+2026-05-19 21:04:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\wandb-summary.json
+2026-05-19 21:04:16 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204101-q8pv3i7m\files\config.yaml
+2026-05-19 21:04:16 INFO file stream finish called
+2026-05-19 21:04:18 INFO file stream finish is done
+2026-05-19 21:04:27 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\run-pyuj10oc.wandb
+2026-05-19 21:04:29 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files
+2026-05-19 21:04:29 INFO run started: pyuj10oc with start time 1779203553.104577
+2026-05-19 21:04:30 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\config.yaml
+2026-05-19 21:04:30 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-metadata.json
+2026-05-19 21:04:30 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:30 INFO saving file requirements.txt with policy now
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0jj3oy3twandb\ywat5x64-wandb-metadata.json
+2026-05-19 21:04:31 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-metadata.json
+2026-05-19 21:04:31 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\config.yaml
+2026-05-19 21:04:31 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-summary.json
+2026-05-19 21:04:31 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\output.log
+2026-05-19 21:04:31 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:31 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0jj3oy3twandb\miozkk2o-requirements.txt
+2026-05-19 21:04:32 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0jj3oy3twandb\misa8eoh-wandb-metadata.json
+2026-05-19 21:04:32 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:32 INFO shutting down sender
+2026-05-19 21:04:32 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\config.yaml
+2026-05-19 21:04:32 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-summary.json
+2026-05-19 21:04:33 INFO shutting down directory watcher
+2026-05-19 21:04:33 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\output.log
+2026-05-19 21:04:33 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files
+2026-05-19 21:04:33 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\config.yaml config.yaml
+2026-05-19 21:04:33 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\output.log output.log
+2026-05-19 21:04:33 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\requirements.txt requirements.txt
+2026-05-19 21:04:33 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:04:33 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:04:33 INFO shutting down file pusher
+2026-05-19 21:04:33 INFO waiting for file pusher
+2026-05-19 21:04:35 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\wandb-summary.json
+2026-05-19 21:04:35 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\config.yaml
+2026-05-19 21:04:35 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204232-pyuj10oc\files\output.log
+2026-05-19 21:04:35 INFO file stream finish called
+2026-05-19 21:04:37 INFO file stream finish is done
+2026-05-19 21:04:46 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\run-rn4tkqlr.wandb
+2026-05-19 21:04:48 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files
+2026-05-19 21:04:48 INFO run started: rn4tkqlr with start time 1779203586.07628
+2026-05-19 21:04:49 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:49 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml
+2026-05-19 21:04:49 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-metadata.json
+2026-05-19 21:04:49 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:04:49 INFO saving file requirements.txt with policy now
+2026-05-19 21:04:50 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmppxgjdb9pwandb\z78kyova-wandb-metadata.json
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-metadata.json
+2026-05-19 21:04:50 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:50 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-summary.json
+2026-05-19 21:04:50 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\output.log
+2026-05-19 21:04:50 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:51 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmppxgjdb9pwandb\tafbjnkv-requirements.txt
+2026-05-19 21:04:51 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:51 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmppxgjdb9pwandb\m0pljawq-wandb-metadata.json
+2026-05-19 21:04:51 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-summary.json
+2026-05-19 21:04:51 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml
+2026-05-19 21:04:51 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:04:51 INFO shutting down sender
+2026-05-19 21:04:52 INFO shutting down directory watcher
+2026-05-19 21:04:52 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-summary.json
+2026-05-19 21:04:52 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\output.log
+2026-05-19 21:04:52 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml
+2026-05-19 21:04:52 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files
+2026-05-19 21:04:52 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml config.yaml
+2026-05-19 21:04:52 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\output.log output.log
+2026-05-19 21:04:52 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\requirements.txt requirements.txt
+2026-05-19 21:04:52 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:04:52 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:04:52 INFO shutting down file pusher
+2026-05-19 21:04:52 INFO waiting for file pusher
+2026-05-19 21:04:53 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\wandb-summary.json
+2026-05-19 21:04:53 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\output.log
+2026-05-19 21:04:53 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204306-rn4tkqlr\files\config.yaml
+2026-05-19 21:04:54 INFO file stream finish called
+2026-05-19 21:04:56 INFO file stream finish is done
+2026-05-19 21:05:05 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\run-qtq5pl4u.wandb
+2026-05-19 21:05:08 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files
+2026-05-19 21:05:08 INFO run started: qtq5pl4u with start time 1779203706.951286
+2026-05-19 21:05:08 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:09 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml
+2026-05-19 21:05:09 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-metadata.json
+2026-05-19 21:05:09 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:09 INFO saving file requirements.txt with policy now
+2026-05-19 21:05:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-metadata.json
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:10 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0tf0zkhjwandb\xshar3d9-wandb-metadata.json
+2026-05-19 21:05:10 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0tf0zkhjwandb\dujy8wxj-requirements.txt
+2026-05-19 21:05:10 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:11 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml
+2026-05-19 21:05:11 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-summary.json
+2026-05-19 21:05:11 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\output.log
+2026-05-19 21:05:11 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:11 INFO shutting down sender
+2026-05-19 21:05:11 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp0tf0zkhjwandb\tpto7saq-wandb-metadata.json
+2026-05-19 21:05:12 INFO shutting down directory watcher
+2026-05-19 21:05:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-summary.json
+2026-05-19 21:05:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\output.log
+2026-05-19 21:05:12 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml
+2026-05-19 21:05:12 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files
+2026-05-19 21:05:12 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml config.yaml
+2026-05-19 21:05:12 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\output.log output.log
+2026-05-19 21:05:12 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\requirements.txt requirements.txt
+2026-05-19 21:05:12 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:05:12 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:05:12 INFO shutting down file pusher
+2026-05-19 21:05:12 INFO waiting for file pusher
+2026-05-19 21:05:13 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\config.yaml
+2026-05-19 21:05:13 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\wandb-summary.json
+2026-05-19 21:05:13 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204506-qtq5pl4u\files\output.log
+2026-05-19 21:05:13 INFO file stream finish called
+2026-05-19 21:05:15 INFO file stream finish is done
+2026-05-19 21:05:24 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\run-75a51s5x.wandb
+2026-05-19 21:05:26 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files
+2026-05-19 21:05:26 INFO run started: 75a51s5x with start time 1779203814.080246
+2026-05-19 21:05:26 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:27 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:27 INFO saving file requirements.txt with policy now
+2026-05-19 21:05:27 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\config.yaml
+2026-05-19 21:05:27 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-metadata.json
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:27 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6tpsm9o8wandb\kuvenfsg-wandb-metadata.json
+2026-05-19 21:05:28 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\config.yaml
+2026-05-19 21:05:28 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\output.log
+2026-05-19 21:05:28 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-summary.json
+2026-05-19 21:05:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:28 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6tpsm9o8wandb\4tubkzjy-requirements.txt
+2026-05-19 21:05:28 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:28 INFO shutting down sender
+2026-05-19 21:05:28 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp6tpsm9o8wandb\ubehfyg4-wandb-metadata.json
+2026-05-19 21:05:29 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-summary.json
+2026-05-19 21:05:29 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\config.yaml
+2026-05-19 21:05:29 INFO shutting down directory watcher
+2026-05-19 21:05:30 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\output.log
+2026-05-19 21:05:30 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files
+2026-05-19 21:05:30 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\config.yaml config.yaml
+2026-05-19 21:05:30 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\output.log output.log
+2026-05-19 21:05:30 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\requirements.txt requirements.txt
+2026-05-19 21:05:30 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:05:30 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:05:30 INFO shutting down file pusher
+2026-05-19 21:05:30 INFO waiting for file pusher
+2026-05-19 21:05:31 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\wandb-summary.json
+2026-05-19 21:05:31 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\config.yaml
+2026-05-19 21:05:31 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204654-75a51s5x\files\output.log
+2026-05-19 21:05:31 INFO file stream finish called
+2026-05-19 21:05:33 INFO file stream finish is done
+2026-05-19 21:05:42 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\run-af81wbcz.wandb
+2026-05-19 21:05:44 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files
+2026-05-19 21:05:44 INFO run started: af81wbcz with start time 1779203866.100831
+2026-05-19 21:05:45 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:45 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml
+2026-05-19 21:05:45 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-metadata.json
+2026-05-19 21:05:46 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:05:46 INFO saving file requirements.txt with policy now
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:46 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml
+2026-05-19 21:05:46 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-metadata.json
+2026-05-19 21:05:46 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-summary.json
+2026-05-19 21:05:46 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\output.log
+2026-05-19 21:05:46 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmph67yvkmowandb\2uuxcibl-wandb-metadata.json
+2026-05-19 21:05:47 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmph67yvkmowandb\16kihj95-requirements.txt
+2026-05-19 21:05:47 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:47 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmph67yvkmowandb\mwtjogre-wandb-metadata.json
+2026-05-19 21:05:47 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-summary.json
+2026-05-19 21:05:47 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml
+2026-05-19 21:05:47 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:05:47 INFO shutting down sender
+2026-05-19 21:05:48 INFO shutting down directory watcher
+2026-05-19 21:05:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-summary.json
+2026-05-19 21:05:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml
+2026-05-19 21:05:48 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\output.log
+2026-05-19 21:05:48 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files
+2026-05-19 21:05:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml config.yaml
+2026-05-19 21:05:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\output.log output.log
+2026-05-19 21:05:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\requirements.txt requirements.txt
+2026-05-19 21:05:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:05:48 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:05:48 INFO shutting down file pusher
+2026-05-19 21:05:48 INFO waiting for file pusher
+2026-05-19 21:05:49 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\config.yaml
+2026-05-19 21:05:49 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\output.log
+2026-05-19 21:05:50 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204746-af81wbcz\files\wandb-summary.json
+2026-05-19 21:05:50 INFO file stream finish called
+2026-05-19 21:05:51 INFO file stream finish is done
+2026-05-19 21:06:01 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\run-6hmhzwq7.wandb
+2026-05-19 21:06:03 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files
+2026-05-19 21:06:03 INFO run started: 6hmhzwq7 with start time 1779203904.096662
+2026-05-19 21:06:04 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:04 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml
+2026-05-19 21:06:04 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-metadata.json
+2026-05-19 21:06:05 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:05 INFO saving file requirements.txt with policy now
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml
+2026-05-19 21:06:05 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-metadata.json
+2026-05-19 21:06:05 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-summary.json
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\output.log
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:05 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:06 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp4wks2oi3wandb\srnbsaew-wandb-metadata.json
+2026-05-19 21:06:06 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:06 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml
+2026-05-19 21:06:06 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-summary.json
+2026-05-19 21:06:07 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:07 INFO shutting down sender
+2026-05-19 21:06:07 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp4wks2oi3wandb\du4lyyn1-requirements.txt
+2026-05-19 21:06:07 INFO shutting down directory watcher
+2026-05-19 21:06:07 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml
+2026-05-19 21:06:07 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-summary.json
+2026-05-19 21:06:07 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\output.log
+2026-05-19 21:06:07 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files
+2026-05-19 21:06:07 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml config.yaml
+2026-05-19 21:06:07 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\output.log output.log
+2026-05-19 21:06:07 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\requirements.txt requirements.txt
+2026-05-19 21:06:07 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:06:07 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:06:07 INFO shutting down file pusher
+2026-05-19 21:06:07 INFO waiting for file pusher
+2026-05-19 21:06:07 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp4wks2oi3wandb\7yeov1cd-wandb-metadata.json
+2026-05-19 21:06:08 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\config.yaml
+2026-05-19 21:06:08 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\wandb-summary.json
+2026-05-19 21:06:08 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204824-6hmhzwq7\files\output.log
+2026-05-19 21:06:09 INFO file stream finish called
+2026-05-19 21:06:10 INFO file stream finish is done
+2026-05-19 21:06:16 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\run-eghoobxj.wandb
+2026-05-19 21:06:19 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files
+2026-05-19 21:06:19 INFO run started: eghoobxj with start time 1779203944.000056
+2026-05-19 21:06:19 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:20 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\config.yaml
+2026-05-19 21:06:20 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-metadata.json
+2026-05-19 21:06:20 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:20 INFO saving file requirements.txt with policy now
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:20 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp418ygvh6wandb\c2y8m9qj-wandb-metadata.json
+2026-05-19 21:06:21 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\config.yaml
+2026-05-19 21:06:21 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-metadata.json
+2026-05-19 21:06:21 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-summary.json
+2026-05-19 21:06:21 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\output.log
+2026-05-19 21:06:21 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp418ygvh6wandb\l7ldd04q-requirements.txt
+2026-05-19 21:06:21 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:22 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmp418ygvh6wandb\qw46j4rt-wandb-metadata.json
+2026-05-19 21:06:22 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:22 INFO shutting down sender
+2026-05-19 21:06:22 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\config.yaml
+2026-05-19 21:06:22 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-summary.json
+2026-05-19 21:06:22 INFO shutting down directory watcher
+2026-05-19 21:06:23 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\output.log
+2026-05-19 21:06:23 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files
+2026-05-19 21:06:23 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\config.yaml config.yaml
+2026-05-19 21:06:23 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\output.log output.log
+2026-05-19 21:06:23 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\requirements.txt requirements.txt
+2026-05-19 21:06:23 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:06:23 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:06:23 INFO shutting down file pusher
+2026-05-19 21:06:23 INFO waiting for file pusher
+2026-05-19 21:06:23 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\output.log
+2026-05-19 21:06:23 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\config.yaml
+2026-05-19 21:06:24 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_204903-eghoobxj\files\wandb-summary.json
+2026-05-19 21:06:24 INFO file stream finish called
+2026-05-19 21:06:26 INFO file stream finish is done
+2026-05-19 21:06:33 INFO open for scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\run-shwfdlbb.wandb
+2026-05-19 21:06:36 INFO watching files in: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files
+2026-05-19 21:06:36 INFO run started: shwfdlbb with start time 1779204148.319869
+2026-05-19 21:06:37 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:37 INFO saving file wandb-metadata.json with policy now
+2026-05-19 21:06:37 INFO saving file requirements.txt with policy now
+2026-05-19 21:06:37 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\config.yaml
+2026-05-19 21:06:37 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-metadata.json
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpj_car96uwandb\k4ry6izv-wandb-metadata.json
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:38 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\config.yaml
+2026-05-19 21:06:38 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-summary.json
+2026-05-19 21:06:38 INFO file/dir created: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\output.log
+2026-05-19 21:06:39 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:39 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpj_car96uwandb\8f123dhd-requirements.txt
+2026-05-19 21:06:39 INFO Uploaded file C:\Users\harik\AppData\Local\Temp\tmpj_car96uwandb\db7h0w4a-wandb-metadata.json
+2026-05-19 21:06:39 INFO saving file wandb-summary.json with policy end
+2026-05-19 21:06:39 INFO shutting down sender
+2026-05-19 21:06:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-summary.json
+2026-05-19 21:06:39 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\config.yaml
+2026-05-19 21:06:40 INFO shutting down directory watcher
+2026-05-19 21:06:40 INFO file/dir modified: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\output.log
+2026-05-19 21:06:40 INFO scan: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files
+2026-05-19 21:06:40 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\config.yaml config.yaml
+2026-05-19 21:06:40 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\output.log output.log
+2026-05-19 21:06:40 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\requirements.txt requirements.txt
+2026-05-19 21:06:40 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-metadata.json wandb-metadata.json
+2026-05-19 21:06:40 INFO scan save: D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-summary.json wandb-summary.json
+2026-05-19 21:06:40 INFO shutting down file pusher
+2026-05-19 21:06:40 INFO waiting for file pusher
+2026-05-19 21:06:41 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\wandb-summary.json
+2026-05-19 21:06:41 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\output.log
+2026-05-19 21:06:42 INFO Uploaded file D:\atri-fashion-mnist-assignment\notebooks\wandb\offline-run-20260519_205228-shwfdlbb\files\config.yaml
+2026-05-19 21:06:43 INFO file stream finish called
+2026-05-19 21:06:44 INFO file stream finish is done
