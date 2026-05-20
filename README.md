@@ -62,5 +62,5 @@ Question 10 (10 Marks)
 Based on your learnings above, give me 3 recommendations for what would work for the MNIST dataset (not Fashion-MNIST). Just to be clear, I am asking you to take your learnings based on extensive experimentation with one dataset and see if these learnings help on another dataset. If I give you a budget of running only 3 hyperparameter confi gurations as opposed to the large number of experiments you have run above, then which 3 would you use and why? Report the accuracies that you obtain using these 3 confi gurations.
 
 
-WandB REPORT : https://wandb.ai/vaishalinir-ymc2022-chennai-institute-of-technology/atri-fashion-mnist-q4?nw=nwuserharikrishnansaids2023
+WandB REPORT : https://wandb.ai/vaishalinir-ymc2022-chennai-institute-of-technology/atri-fashion-mnist-q4/reports/ATRI-ASSIGNMENT--VmlldzoxNjk0NDA4Ng
 WandB PROJECT :  atri-fashion-mnist-q4
